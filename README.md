@@ -1,1 +1,1 @@
-
+Hello friends, in this article, I would like to tell you about the rubber ducky attack, which is a bad USB attack. First of all, I would like to point out that I do not hold any responsibility for the problems experienced. To put it briefly, rubber ducky enables us to facilitate our operations by configuring the USB and running commands quickly. The commands required for preparation are in the file. has been given.
